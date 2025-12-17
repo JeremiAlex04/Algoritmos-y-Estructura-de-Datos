@@ -1,0 +1,6 @@
+## Pregunta 5 ##
+Explicar 2 pilares de POO
+Mi respuesta: 
+- Encapsulamiento: Solo de deben permitir el acceso a datos si se lo requiere. Como es el caso de una clase cuando expones los atributo si es publico, privado o protegido.  
+
+- Herencia: Cuando una clase padre puede extender atributos o métodos a una clase hija. Subclase - Superclase. 
