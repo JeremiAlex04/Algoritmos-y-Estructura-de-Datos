@@ -1,0 +1,19 @@
+## PRACTICA CALIFICADA N1 - PREGUNTAS TEORICAS ##
+
+1) ¿Qué ventajas tienen las estructuras dinámicas sobre las estáticas?
+
+MI RESPUESTA: 
+Las estructuras estáticas tienes valores ya definidos y es mas directo de trabajar con ellas. Por otro lado las estructuras dinámicas se necesita de un valor para poder trabajar con ellas.  
+Algunos Ejemplos:
+- Dinámicas: Pilas, colas, listas.
+- Estáticas:  Vectores, Matrices, Poliedro.
+
+2) ¿Cuál es la diferencia de declarar e inicializar?, puede dar su ejemplo.
+
+MI RESPUESTA: 
+- Declarar: Es cuando generas una variable, asignas el tipo de dato y el nombre.
+Ejemplo: 
+int edad; 
+- Inicializar: Es cuando la variable generada se el asigna un valor.
+Ejemplo: 
+int edad = 20;
