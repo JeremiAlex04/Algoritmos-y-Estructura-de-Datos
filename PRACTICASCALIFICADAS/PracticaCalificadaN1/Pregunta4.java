@@ -1,4 +1,4 @@
-package PRACTICASCALIFICADAS.PRACTICACALIFICADA1;
+package PRACTICASCALIFICADAS.PracticaCalificadaN1;
 /*
 Según el arreglo  A = [3, 8, 12, 5, 10]
 - Se requiere generar un recorrido
