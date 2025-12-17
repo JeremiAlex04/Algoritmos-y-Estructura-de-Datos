@@ -1,0 +1,6 @@
+## PREGUNTA N2 ##
+** ¿Cuál es la diferencia de una lista enlazada doble con una lista circular simple? **
+Mi respuesta: 
+* Diferencias: 
+- Lista Enlazada Doble: Es una lista en donde un elemento apunta al siguiente y al anterior elemento. 
+- Lista Circular Simple: Es una lista donde el ultimo elemento apunta al primer elemento.

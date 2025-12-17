@@ -1,0 +1,5 @@
+## Pregunta 6 ##
+Explicar 2 clasificaciones de estructuras de datos dinámicas que no sean LISTAS
+Mi respuesta:
+- Pilas: Es cuando un elemento es  ultimo en entrar y es el primero en salir, entendido con la estructura LIFO.
+- Colas: Es cuando un elemento es el primero en llegar y primero en salir, comprendido con el algoritmo FIFO. 

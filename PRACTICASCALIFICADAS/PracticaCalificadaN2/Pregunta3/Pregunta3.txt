@@ -1,0 +1,4 @@
+## Pregunta 3 ##
+Explique de manera gráfica, que sucede cuando eliminamos el ultimo nodo 
+Mi respuesta: 
+En el archivo ./Pregunta3.png
