@@ -1,4 +1,4 @@
-package PRACTICASCALIFICADAS.PRACTICACALIFICADA1;
+package PRACTICASCALIFICADAS.PracticaCalificadaN1;
 /*
 PREGUNTA 3:
 Dado A = ["Carlos", "Miguel", "Bryan", "Andres", "Simon"]:
