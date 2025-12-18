@@ -1,6 +1,15 @@
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.util.ArrayList;
+/*
+Formulario para registrar Platos de comida, con:
+- Código
+- Nombre
+- Tipo (Entrada, Fondo, Postre)
+- Precio
+Los datos se almacenan en un ArrayList<Plato> y se muestran en una lista.
+*/
+
 
 public class FrmPlatos extends JFrame {
 
